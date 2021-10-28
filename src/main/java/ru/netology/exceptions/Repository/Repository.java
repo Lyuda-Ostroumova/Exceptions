@@ -1,4 +1,4 @@
-package ru.netology.exceptions;
+package ru.netology.exceptions.Repository;
 
 import ru.netology.exceptions.exception.NotFoundException;
 import ru.netology.exceptions.products.Product;

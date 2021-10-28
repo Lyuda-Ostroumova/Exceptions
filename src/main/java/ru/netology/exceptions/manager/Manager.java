@@ -3,7 +3,7 @@ package ru.netology.exceptions.manager;
 import ru.netology.exceptions.products.Product;
 import ru.netology.exceptions.products.Book;
 import ru.netology.exceptions.products.TShirt;
-import ru.netology.exceptions.Repository;
+import ru.netology.exceptions.Repository.Repository;
 
 public class Manager {
 
